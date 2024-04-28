@@ -1,0 +1,36 @@
+.kekka{
+    background-color: rgb(217, 255, 216);
+     border-radius: 10px; 
+     border: 2px solid #000000;
+}
+.s1{
+    table-layout: fixed;
+    width: 100%;
+}
+.s1{
+    background-color: rgb(41, 92, 0);
+    border-color: white;
+    color: white;
+}
+.win{
+    background-color:yellow;
+    border: solid 2px black;
+}
+.lose{
+    background-color: rgb(0, 148, 217);
+    border: solid 2px black;
+}
+.bting{
+    background-color: white;
+
+}
+.bting th{
+    background-color: #867c7c;
+}
+.pich{
+    background-color: white;
+
+}
+.pich th{
+    background-color: #867c7c;
+}
