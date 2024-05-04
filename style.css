@@ -1,4 +1,4 @@
-.kekka{
+div{
     background-color: rgb(217, 255, 216);
      border-radius: 10px; 
      border: 2px solid #000000;
@@ -20,14 +20,14 @@
     background-color: rgb(0, 148, 217);
     border: solid 2px black;
 }
-.bting{
+table{
     background-color: white;
 
 }
 .bting th{
     background-color: #867c7c;
 }
-.pich{
+.table{
     background-color: white;
 
 }
