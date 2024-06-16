@@ -38,3 +38,15 @@ table{
 .pich th{
     background-color: #867c7c;
 }
+.w{
+    background-color:yellow;
+    border: solid 2px black;
+}
+.l{
+    background-color: rgb(0, 148, 217);
+    border: solid 2px black;
+}
+.wine{
+    background-color:red;
+    border: solid 2px black;
+}
